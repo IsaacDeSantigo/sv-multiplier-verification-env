@@ -2,6 +2,7 @@
 A robust SystemVerilog Layered Testbench using OOP principles to verify a Digital Multiplier (DUT). Features constrained random generation, self-checking scoreboard, and functional coverage analysis.
 ## Overview
 This project implements a **layered testbench architecture** to verify the functional correctness of an arithmetic unit. 
+
 <img width="1627" height="1090" alt="Architecture" src="https://github.com/user-attachments/assets/761c2357-a99f-411e-a355-da149975ce48" />
 
 ## Tools Used 
